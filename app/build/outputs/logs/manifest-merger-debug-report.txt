@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\af7ba399bd7771225828de736e5eb12e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\appcompat-1.4.2.aar\25940520b9a1e069ee0e3fd1d26c7e90\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\fragment-1.3.6.aar\27380af0b65779dacf3e521ad69662e1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\activity-1.2.4.aar\8a32f23c478cb1a6e44da202393fd221\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\appcompat-resources-1.4.2.aar\97fb2f11ffd81a30196588c06a577144\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b6241ef8a9d8f7c975a37ac32322d372\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-views-helper-1.0.0.aar\102b443291b7e78cd99e4a7376e1ee79\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0b75f8d8d11c3871885f5f2518b231a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\loader-1.0.0.aar\e7670de838dc7322ec0f3164ce7b70d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\3e0c2c117606eab0072984d25918ac31\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\ddf4e6559b4035a8a8a62f3931a8e05d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\customview-1.0.0.aar\327e34b84fc61c2d7c1dda1b7fc1e021\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-1.7.0.aar\56d143b958acf2e040c69854547da26b\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ecf3cb704e596fcc21539f794c712c5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.3.1.aar\38c1649980bc2f51d94f4544fe7da7d4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\savedstate-1.1.0.aar\bdb03aed55f75a949ba898200a18630b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.3.1.aar\a7e34bbde312d2b5f9472af7bf911ce3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\6ed1e7211c7f247433d81f4ae57891bd\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\startup-runtime-1.0.0.aar\a214db45d111b61a8ee7e395295fea5a\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\tracing-1.0.0.aar\ad299a9706ff31742c242b86e6ecd46e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ccaa9873abe710669426e4b6af144552\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.3.1.aar\1fce0bb2d055186606f0f2251f0acf42\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-runtime-2.4.0.aar\8401a077c6ed1dba259923add1b9ef10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\e804fb9e6d5f6e9e0ab010edf488d78e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ded9493705a6cf56c7ebdb56e18b1321\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\annotation-experimental-1.1.0.aar\5e7310b34e54c2884e90b43bc8b12747\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\af7ba399bd7771225828de736e5eb12e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\af7ba399bd7771225828de736e5eb12e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-1.7.0.aar\56d143b958acf2e040c69854547da26b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-1.7.0.aar\56d143b958acf2e040c69854547da26b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\6ed1e7211c7f247433d81f4ae57891bd\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\6ed1e7211c7f247433d81f4ae57891bd\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\startup-runtime-1.0.0.aar\a214db45d111b61a8ee7e395295fea5a\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\startup-runtime-1.0.0.aar\a214db45d111b61a8ee7e395295fea5a\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-1.7.0.aar\56d143b958acf2e040c69854547da26b\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:12:9-59
+activity#thegenuinegourav.voicemail.UserDetailsActivity
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:13:9-66
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:13:19-54
+activity#thegenuinegourav.voicemail.OpenActivity
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:19:27-74
+activity#thegenuinegourav.voicemail.MainActivity
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml:22:19-47
+uses-sdk
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\af7ba399bd7771225828de736e5eb12e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\af7ba399bd7771225828de736e5eb12e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\appcompat-1.4.2.aar\25940520b9a1e069ee0e3fd1d26c7e90\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\appcompat-1.4.2.aar\25940520b9a1e069ee0e3fd1d26c7e90\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\fragment-1.3.6.aar\27380af0b65779dacf3e521ad69662e1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\fragment-1.3.6.aar\27380af0b65779dacf3e521ad69662e1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\activity-1.2.4.aar\8a32f23c478cb1a6e44da202393fd221\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\activity-1.2.4.aar\8a32f23c478cb1a6e44da202393fd221\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\appcompat-resources-1.4.2.aar\97fb2f11ffd81a30196588c06a577144\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\appcompat-resources-1.4.2.aar\97fb2f11ffd81a30196588c06a577144\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b6241ef8a9d8f7c975a37ac32322d372\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b6241ef8a9d8f7c975a37ac32322d372\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-views-helper-1.0.0.aar\102b443291b7e78cd99e4a7376e1ee79\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-views-helper-1.0.0.aar\102b443291b7e78cd99e4a7376e1ee79\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0b75f8d8d11c3871885f5f2518b231a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0b75f8d8d11c3871885f5f2518b231a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\loader-1.0.0.aar\e7670de838dc7322ec0f3164ce7b70d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\loader-1.0.0.aar\e7670de838dc7322ec0f3164ce7b70d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\3e0c2c117606eab0072984d25918ac31\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\3e0c2c117606eab0072984d25918ac31\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\ddf4e6559b4035a8a8a62f3931a8e05d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\ddf4e6559b4035a8a8a62f3931a8e05d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\customview-1.0.0.aar\327e34b84fc61c2d7c1dda1b7fc1e021\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\customview-1.0.0.aar\327e34b84fc61c2d7c1dda1b7fc1e021\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-1.7.0.aar\56d143b958acf2e040c69854547da26b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-1.7.0.aar\56d143b958acf2e040c69854547da26b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ecf3cb704e596fcc21539f794c712c5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ecf3cb704e596fcc21539f794c712c5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.3.1.aar\38c1649980bc2f51d94f4544fe7da7d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.3.1.aar\38c1649980bc2f51d94f4544fe7da7d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\savedstate-1.1.0.aar\bdb03aed55f75a949ba898200a18630b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\savedstate-1.1.0.aar\bdb03aed55f75a949ba898200a18630b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.3.1.aar\a7e34bbde312d2b5f9472af7bf911ce3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.3.1.aar\a7e34bbde312d2b5f9472af7bf911ce3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\6ed1e7211c7f247433d81f4ae57891bd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\6ed1e7211c7f247433d81f4ae57891bd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\startup-runtime-1.0.0.aar\a214db45d111b61a8ee7e395295fea5a\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\startup-runtime-1.0.0.aar\a214db45d111b61a8ee7e395295fea5a\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\tracing-1.0.0.aar\ad299a9706ff31742c242b86e6ecd46e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\tracing-1.0.0.aar\ad299a9706ff31742c242b86e6ecd46e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ccaa9873abe710669426e4b6af144552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ccaa9873abe710669426e4b6af144552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.3.1.aar\1fce0bb2d055186606f0f2251f0acf42\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.3.1.aar\1fce0bb2d055186606f0f2251f0acf42\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-runtime-2.4.0.aar\8401a077c6ed1dba259923add1b9ef10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-runtime-2.4.0.aar\8401a077c6ed1dba259923add1b9ef10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\e804fb9e6d5f6e9e0ab010edf488d78e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\e804fb9e6d5f6e9e0ab010edf488d78e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ded9493705a6cf56c7ebdb56e18b1321\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ded9493705a6cf56c7ebdb56e18b1321\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\annotation-experimental-1.1.0.aar\5e7310b34e54c2884e90b43bc8b12747\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\annotation-experimental-1.1.0.aar\5e7310b34e54c2884e90b43bc8b12747\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\voice based mail app\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\startup-runtime-1.0.0.aar\a214db45d111b61a8ee7e395295fea5a\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\startup-runtime-1.0.0.aar\a214db45d111b61a8ee7e395295fea5a\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\emoji2-1.0.0.aar\e7410d4e1795e700965ac87296b5489c\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\DOWNLOADS\ImagePro2-master\ImagePro2-master\caches\transforms-1\files-1.1\lifecycle-process-2.4.0.aar\a5f457c4c6f9878ce6c561ae7b883463\AndroidManifest.xml:32:17-78

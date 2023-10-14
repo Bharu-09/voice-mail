@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Lenovo\\AndroidStudioProjects\\voice based mail app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\DOWNLOADS\\ImagePro2-master\\ImagePro2-master\\caches\\transforms-1\\files-1.1\\appcompat-1.4.2.aar\\25940520b9a1e069ee0e3fd1d26c7e90\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
